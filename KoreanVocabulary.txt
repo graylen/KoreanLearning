@@ -275,3 +275,20 @@
 부산	Busan
 수박	watermelon
 예쁘다	to be pretty
+오렌지주스	orange juice
+불고기	bulgogi
+햄버거	hamburger
+치킨	fried chicken
+아이스크림	ice cream
+김치	kimchi
+뉴스	news
+홍대	Hongdae
+신촌	Sinchon
+티셔츠	t-shirt
+맥주	beer
+주문하다	to order
+아프다	to hurt / to be painful
+맵다	to be spicy
+늦다	to be late
+빠지다	to fall out / to lose (weight) (살이 빠지다)
+살	(years old; age counter)
