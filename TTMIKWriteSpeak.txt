@@ -1,0 +1,542 @@
+Speak & Write Level 1
+
+Hi.
+= 안녕하세요. [an-nyeong-ha-se-yo.]
+Thank you.
+= 감사합니다. [gam-sa-ham-ni-da.]
+Do you like coffee?
+= 커피 좋아해요? [keo-pi jo-a-hae-yo?]
+Yes, I like it.
+= 네. 좋아해요. [ne. jo-a-hae-yo.]
+No, I don’t like it.
+= 아니요. 안 좋아해요. [a-ni-yo. an jo-a-hae-yo.]
+You don’t like coffee?
+= 커피 안 좋아해요? [keo-pi an jo-a-hae-yo?]
+(When you are leaving and the other person is staying) Goodbye.
+= 안녕히 계세요. [an-nyeong-hi gye-se-yo.]
+(When the other person is leaving and you are staying) Goodbye.
+= 안녕히 가세요. [an-nyeong-hi ga-se-yo.]
+I'm sorry.
+= 죄송합니다. [joe-song-ham-ni-da.]
+(When you want to get someone’s attention) Excuse me.
+= 저기요. [jeo-gi-yo.]
+What is it?
+= 뭐예요? [mwo-ye-yo?]
+It's a bag.
+= 가방이에요. [ga-bang-i-e-yo.]
+It's water.
+= 물이에요. [mul-i-e-yo.]
+What is this?
+= 이거 뭐예요? [i-geo mwo-ye-yo?]
+This is a camera.
+= 이거 카메라예요. [i-geo ka-me-ra-ye-yo.]
+This is a book.
+= 이거 책이에요. [i-geo chae-gi-e-yo.]
+This is water.
+= 이거 물이에요. [i-geo mu-ri-e-yo.]
+This is not water.
+= 이거 물 아니에요. [i-geo mul a-ni-e-yo.]
+Is this coffee?
+= 이거 커피예요? [i-geo keo-pi-ye-yo?]
+No. This is water.
+= 아니요. 이거 물이에요. [a-ni-yo. i-geo mu-ri-e-yo.]
+Yes, that’s right. This is coffee.
+= 네. 맞아요. 이거 커피예요. [ne. ma-ja-yo. i-geo keo-pi-ye-yo.]
+And as for this one, what is it?
+= 이거는 뭐예요? [i-geo-neun mwo-ye-yo?]
+And this one, it's water.
+= 이거는 물이에요. [i-geo-neun mu-ri-e-yo.]
+And this one, it's orange juice.
+= 이거는 오렌지주스예요. [i-geo-neun o-ren-ji ju-sseu-ye-yo.]
+Are you a student?
+= 학생이에요? [hak-ssaeng-i-e-yo?]
+I'm not a student.
+= 저 학생 아니에요. [jeo hak-ssaeng a-ni-e-yo.]
+As for me, I'm a student.
+= 저는 학생이에요. [jeo-neun hak-ssaeng-i-e-yo.]
+Do you have time?
+= 시간 있어요? [si-gan i-sseo-yo?]
+I have time.
+= 시간 있어요. [si-gan i-sseo-yo.]
+I don't have time.
+= 시간 없어요. [si-gan eop-sseo-yo.]
+Please give me some bulgogi.
+= 불고기 주세요. [bul-go-gi ju-se-yo.]
+Please give me a hamburger.
+= 햄버거 주세요. [haem-beo-geo ju-se-yo.]
+Please give me some money.
+= 돈 주세요. [don ju-se-yo.]
+It's tasty.
+= 맛있어요. [ma-si-sseo-yo.]
+Fried chicken is tasty.
+= 치킨 맛있어요. [chi-kin ma-si-sseo-yo.]
+It's not tasty.
+= 맛없어요. [ma-deop-sseo-yo.]
+This tea tastes awful.
+= 이 차 맛없어요. [i cha ma-deop-sseo-yo.]
+(Before you start having a meal) Thank you for the food.
+= 잘 먹겠습니다. [jal meok-kket-sseum-ni-da.]
+(After you finish a meal) Thank you for the food.
+= 잘 먹었습니다. [jal meo-geot-sseum-ni-da.]
+I want to go.
+= 가고 싶어요. [ga-go si-peo-yo.]
+I want to eat.
+= 먹고 싶어요. [meok-kko si-peo-yo.]
+What do you want to eat?
+= 뭐 먹고 싶어요? [mwo meok-kko si-peo-yo?]
+I want to eat this.
+= 이거 먹고 싶어요. [i-geo meok-kko si-peo-yo.]
+What do you want to do?
+= 뭐 하고 싶어요? [mwo ha-go si-peo-yo?]
+I want to sleep.
+= 자고 싶어요. [ja-go si-peo-yo.]
+I want to rest.
+= 쉬고 싶어요. [swi-go si-peo-yo.]
+I eat.
+= 먹어요. [meo-geo-yo.]
+I ate.
+= 먹었어요. [meo-geo-sseo-yo.]
+I do.
+= 해요. [hae-yo.]
+I did.
+= 했어요. [hae-sseo-yo.]
+I play.
+= 놀아요. [no-ra-yo.]
+I played.
+= 놀았어요. [no-ra-sseo-yo.]
+I went to school.
+= 학교에 갔어요. [hak-kkyo-e ga-sseo-yo.]
+Where are you?
+= 어디에 있어요? [eo-di-e i-sseo-yo?]
+I'm at home.
+= 집에 있어요. [ji-be i-sseo-yo.]
+What are you doing at home?
+= 집에서 뭐 해요? [ji-be-seo mwo hae-yo?]
+I work at home.
+= 집에서 일해요. [ji-be-seo il-hae-yo.]
+When did you do it?
+= 언제 했어요? [eon-je hae-sseo-yo?]
+When did you come?
+= 언제 왔어요? [eon-je wa-sseo-yo?]
+I go home.
+= 집에 가요. [ji-be ga-yo.]
+I don't go home.
+= 집에 안 가요. [ji-be an ga-yo.]
+Does it hurt?
+= 아파요? [a-pa-yo?]
+It doesn't hurt.
+= 안 아파요. [an a-pa-yo.]
+It's not spicy.
+= 안 매워요. [an mae-wo-yo.]
+I study.
+= 공부해요. [gong-bu-hae-yo.]
+I studied.
+= 공부했어요. [gong-bu-hae-sseo-yo.]
+I exercise.
+= 운동해요. [un-dong-hae-yo.]
+I exercised.
+= 운동했어요. [un-dong-hae-sseo-yo.]
+I love you.
+= 사랑해요. [sa-rang-hae-yo.]
+I loved you.
+= 사랑했어요. [sa-rang-hae-sseo-yo.]
+Who is it?
+= 누구예요? [nu-gu-ye-yo?]
+Who is this?
+= 이 사람 누구예요? [i sa-ram nu-gu-ye-yo?]
+Who did it?
+= 누가 했어요? [nu-ga hae-sseo-yo?]
+Who called?
+= 누가 전화했어요? [nu-ga jeon-hwa-hae-sseo-yo?]
+Why did you call?
+= 왜 전화했어요? [wae jeon-hwa-hae-sseo-yo?]
+How much is it?
+= 얼마예요? [eol-ma-ye-yo?]
+How much is this?
+= 이거 얼마예요? [i-geo eol-ma-ye-yo?]
+How much is that?
+= 저거 얼마예요? [jeo-geo eol-ma-ye-yo?]
+Hi.
+= 안녕하세요. [an-nyeong-ha-se-yo.]
+Thank you.
+= 감사합니다. [gam-sa-ham-ni-da.]
+Do you like coffee?
+= 커피 좋아해요? [keo-pi jo-a-hae-yo?]
+You don’t like coffee?
+= 커피 안 좋아해요? [keo-pi an jo-a-hae-yo?]
+(When you are leaving and the other person is staying) Goodbye.
+= 안녕히 계세요. [an-nyeong-hi gye-se-yo.]
+(When the other person is leaving and you are staying) Goodbye.
+= 안녕히 가세요. [an-nyeong-hi ga-se-yo.]
+I am sorry.
+= 죄송합니다. [joe-song-ham-ni-da.]
+Just a second.
+= 잠시만요. [jam-si-man-nyo.] / 잠깐만요. [jam-kkan-man-nyo.]
+What is it? / What is that?
+= 뭐예요? [mwo-ye-yo?]
+(It is) a school.
+= 학교예요. [hak-kkyo-ye-yo.]
+(It is) water.
+= 물이에요. [mul-i-e-yo.]
+What is this?
+= 이거 뭐예요? [i-geo mwo-ye-yo?]
+This is coffee.
+= 이거 커피예요. [i-geo keo-pi-ye-yo.]
+This is a dictionary.
+= 이거 사전이에요. [i-geo sa-jeo-ni-e-yo.]
+Is this coffee?
+= 이거 커피예요? [i-geo keo-pi-ye-yo?]
+No. This is water.
+= 아니요. 이거 물이에요. [a-ni-yo. i-geo mu-ri-e-yo.]
+It is not water.
+= 물 아니에요. [mul a-ni-e-yo.]
+It is not milk.
+= 우유 아니에요. [u-yu a-ni-e-yo.]
+It is not me.
+= 저 아니에요. [jeo a-ni-e-yo.]
+This is an apple.
+= 이거 사과예요. [i-geo sa-gwa-ye-yo.]
+And as for this one, what is it?
+= 이거는 뭐예요? [i-geo-NEUN mwo-ye-yo?]
+(The other things are not apples, but) THIS is an apple.
+= 이거는 사과예요. [i-geo-neun sa-gwa-ye-yo.]
+And this one, it's water.
+= 이거는 물이에요. [i-geo-neun mu-ri-e-yo.]
+And this one, it's orange juice.
+= 이거는 오렌지주스예요. [i-geo-neun o-ren-ji ju-sseu-ye-yo.]
+Are you a student?
+= 학생이에요? [hak-ssaeng-i-e-yo?]
+I'm not a student.
+= 저 학생 아니에요. [jeo hak-ssaeng a-ni-e-yo.]
+As for me, I'm a student.
+= 저는 학생이에요. [jeo-neun hak-ssaeng-i-e-yo.]
+Is there water? / Do you have water? / Do they have water?
+= 물 있어요? [mul i-sseo-yo?]
+There is water. / Water exists. / I have water. / They have water.
+= 물 있어요. [mul i-sseo-yo.]
+There is no water. / I do not have water. / They do not have water.
+= 물 없어요. [mul eop-sseo-yo.]
+Talk To Me In Korean is fun!
+= Talk To Me In Korean 재미있어요! [jae-mi-i-sseo-yo!]
+Do you have money?
+= 돈 있어요? [don i-sseo-yo?]
+You do not have money?
+= 돈 없어요? [don eop-sseo-yo?]
+Please give me some ice cream.
+= 아이스크림 주세요. [a-i-seu-keu-rim ju-se-yo.]
+Please give me some kimchi.
+= 김치 주세요. [gim-chi ju-se-yo.]
+It is tasty.
+= 맛있어요. [ma-si-sseo-yo.]
+This is delicious.
+= 이거 맛있어요. [i-geo ma-si-sseo-yo.]
+It is not tasty.
+= 맛없어요. [ma-deop-sseo-yo.]
+(Before you start having a meal) Thank you for the food.
+= 잘 먹겠습니다. [jal meok-kket-sseum-ni-da.]
+(After you finish a meal) Thank you for the food.
+= 잘 먹었습니다. [jal meo-geot-sseum-ni-da.]
+What do you want to eat?
+= 뭐 먹고 싶어요? [mwo meok-kko si-peo-yo?]
+I want to eat a hamburger.
+= 햄버거 먹고 싶어요. [haem-beo-geo meok-kko si-peo-yo.]
+I want to eat more.
+= 더 먹고 싶어요. [deo meok-kko si-peo-yo.]
+What do you want to watch?
+= 뭐 보고 싶어요? [mwo bo-go si-peo-yo?]
+I want to watch a movie.
+= 영화 보고 싶어요. [yeong-hwa bo-go si-peo-yo.]
+I want to watch the news.
+= 뉴스 보고 싶어요. [nyu-sseu bo-go si-peo-yo.]
+I go. / You go. / He goes. / She goes. / They go. / etc.
+= 가요. [ga-yo.]
+I see. / I look. / I watch. / You look. / etc.
+= 봐요. [bwa-yo.]
+I eat. / You eat. / He eats. / etc.
+= 먹어요. [meo-geo-yo.]
+I ate. / You ate. / He ate. / etc.
+= 먹었어요. [meo-geo-sseo-yo.]
+I did / You did / He did / They did / etc.
+= 했어요. [hae-sseo-yo.]
+I came / You came / She came / They came / We came / etc.
+= 왔어요. [wa-sseo-yo.]
+I came to Korea.
+= 한국에 왔어요. [han-gu-ge wa-sseo-yo.]
+Where are you?
+= 어디에 있어요? [eo-di-e i-sseo-yo?]
+I am at the office.
+= 사무실에 있어요. [sa-mu-si-re i-sseo-yo.]
+I work at the office.
+= 사무실에서 일해요. [sa-mu-si-re-seo il-hae-yo.]
+When did you do it?
+= 언제 했어요? [eon-je hae-sseo-yo?]
+When do you get up?
+= 언제 일어나요? [eon-je i-reo-na-yo?]
+In the morning, when do you get up?
+= 아침에 언제 일어나요? [a-chi-me eon-je i-reo-na-yo?]
+I am twenty years old.
+= 스무 살이에요. [seu-mu sa-ri-e-yo.]
+I am twenty-one years old.
+= 스물한 살이에요. [seu-mul-han sa-ri-e-yo.]
+I threw it away.
+= 그거 버렸어요. [geu-geo beo-ryeo-sseo-yo.]
+I didn't throw it away.
+= 그거 안 버렸어요. [geu-geo an beo-ryeo-sseo-yo.]
+I don't go. / I'm not going.
+= 가지 않아요. [ga-ji a-na-yo.]
+I DID NOT go.
+= 가지 않았어요. [ga-ji a-na-sseo-yo.]
+I am not eating.
+= 안 먹어요. [an meo-geo-yo.]
+I work.
+= 일해요. [il-hae-yo.]
+I worked.
+= 일했어요. [il-hae-sseo-yo.]
+I sing.
+= 노래해요. [no-rae-hae-yo.]
+I sang.
+= 노래했어요. [no-rae-hae-sseo-yo.]
+I say.
+= 말해요. [mal-hae-yo.]
+I said.
+= 말했어요. [mal-hae-sseo-yo.]
+Who is it?
+= 누구예요? [nu-gu-ye-yo?]
+Who did it?
+= 누가 했어요? [nu-ga hae-sseo-yo?]
+Who bought it?
+= 누가 샀어요? [nu-ga sa-sseo-yo?]
+How did you get here?
+= 어떻게 왔어요? [eo-tteo-ke wa-sseo-yo?]
+How did you find it?
+= 어떻게 찾았어요? [eo-tteo-ke cha-ja-sseo-yo?]
+How much is this?
+= 이거 얼마예요? [i-geo eol-ma-ye-yo?]
+How much is that?
+= 저거 얼마예요? [jeo-geo eol-ma-ye-yo?]
+
+Speak & Write Level 2
+
+I'm going to go (there) now.
+= 지금 갈 거예요. [ji-geum gal kkeo-ye-yo.]
+I'm going to go tomorrow.
+= 내일 갈 거예요. [nae-il gal kkeo-ye-yo.]
+What are you going to do?
+= 뭐 할 거예요? [mwo hal kkeo-ye-yo?]
+When are you going to meet?
+= 언제 만날 거예요? [eon-je man-nal kkeo-ye-yo?]
+Kimchi is delicious. So, I eat a lot of Kimchi.
+= 김치는 맛있어요. 그래서 김치를 많이 먹어요. [gim-chi-neun ma-si-sseo-yo. geu-rae-seo gim-chi-reul ma-ni meo-geo-yo.]
+I'm a student. And I'm studying French.
+= 저는 학생이에요. 그리고 프랑스어를 공부해요. [jeo-neun hak-ssaeng-i-e-yo. geu-ri-go peu-rang-sseu-eo-reul gong-bu-hae-yo.]
+I'm a student. So I don't have money.
+= 저는 학생이에요. 그래서 돈이 없어요. [jeo-neun hak-ssaeng-i-e-yo. geu-rae-seo do-ni eop-sseo-yo.]
+Give me this and this.
+= 이거하고 이거 주세요. [i-geo-ha-go i-geo ju-se-yo.]
+I'm going to eat with my teacher.
+= 선생님하고 밥을 먹을 거예요. [seon-saeng-nim-ha-go ba-beul meo-geul kkeo-ye-yo.]
+I went to Hongdae and Sinchon yesterday.
+= 어제 홍대하고 신촌에 갔어요. [eo-je hong-dae-ha-go sin-cho-ne ga-sseo-yo.]
+I'm going to go on a picnic on Saturday.
+= 토요일에는 소풍을 갈 거예요. [to-yo-i-re-neun so-pung-eul gal kkeo-ye-yo.]
+I watched a movie on Monday.
+= 저는 월요일에 영화를 봤어요. [jeo-neun wo-ryo-i-re yeong-hwa-reul bwa-sseo-yo.]
+I went to school yesterday, but it was Sunday.
+= 어제 학교에 갔어요. 그런데 일요일이었어요. [eo-je hak-kkyo-e ga-sseo-yo. geu-reon-de i-ryo-i-ri-eo-sseo-yo.]
+I'm tired. But I want to see a movie.
+= 피곤해요. 그런데 영화 보고 싶어요. [pi-gon-hae-yo. geu-reon-de yeong-hwa bo-go si-peo-yo.]
+I went to bed late last night, but I'm not tired.
+= 어젯밤 늦게 잤어요. 그런데 피곤하지 않아요. [eo-jet-ppam neut-kke ja-sseo-yo. geu-reon-de pi-gon-ha-ji a-na-yo.]
+What time is it now?
+= 지금 몇 시예요? [ji-geum myeot si-ye-yo?]
+It's 2 o’clock.
+= 두 시예요. [du si-ye-yo.]
+It's 10:30.
+= 열 시 삼십 분이에요. [yeol si sam-sip bu-ni-e-yo.]
+It's 1:15.
+= 한 시 십오 분이에요. [han si si-bo bu-ni-e-yo.]
+What is the hour, and what is the minute?
+= 지금 몇 시 몇 분이에요? [ji-geum myeot si myeot bu-ni-e-yo?]
+There are 10 people.
+= 10명 있어요. [yeol myeong i-sseo-yo.]
+Please give me a bottle of cola.
+= 콜라 한 병 주세요. [kol-la han byeong ju-se-yo.]
+It was raining.
+= 비가 오고 있었어요. [bi-ga o-go i-sseo-sseo-yo.]
+It was snowing.
+= 눈이 오고 있었어요. [nu-ni o-go i-sseo-sseo-yo.]
+I'm working.
+= 일하고 있어요. [il-ha-go i-sseo-yo.]
+I was working.
+= 일하고 있었어요. [il-ha-go i-sseo-sseo-yo.]
+I'll be working.
+= 일하고 있을 거예요. [il-ha-go i-sseul-kkeo-ye-yo.]
+My name is Choi Kyeong-eun.
+= 제 이름은 최경은이에요. [je i-reum-eun choi-kyeong-eu-ni-e-yo.]
+I live in Seoul.
+= 저는 서울에 살아요. [jeo-neun seo-u-re sa-ra-yo.]
+I work in a bank.
+= 저는 은행에서 일해요. [jeo-neun eun-haeng-e-seo il-hae-yo.]
+I have a younger sister.
+= 저는 여동생이 있어요. [jeo-neun yeo-dong-saeng-i i-sseo-yo.]
+What is today’s date?
+= 오늘 몇 월 며칠이에요? [o-neul myeo-dwol myeo-chi-ri-e-yo?]
+When is your birthday?
+= 생일이 언제예요? [saeng-i-ri eon-je-ye-yo?]
+I like it, too.
+= 저도 좋아요. [jeo-do jo-a-yo.]
+I'm a student, too.
+= 저도 학생이에요. [jeo-do hak-ssaeng-i-e-yo.]
+Do you work today as well?
+= 오늘도 일해요? [o-neul-do il-hae-yo?]
+I'll go (again) tomorrow, too.
+= 내일도 갈 거예요. [nae-il-do gal kkeo-ye-yo.]
+I teach English as well.
+= 저는 영어도 가르쳐요. [jeo-neun yeong-eo-do ga-reu-chyeo-yo.]
+I fix computers as well.
+= 컴퓨터도 고쳐요. [keom-pyu-teo-do go-chyeo-yo.]
+I'll only buy this.
+= 이것만 살 거예요. [i-geon-man sal kkeo-ye-yo.]
+I only drink coffee in the morning.
+= 아침에는 커피만 마셔요. [a-chi-me-neun keo-pi-man ma-syeo-yo.]
+I drink coffee only in the morning.
+= 아침에만 커피를 마셔요. [a-chi-me-man keo-pi-reul ma-syeo-yo.]
+It's a little expensive.
+= 조금 비싸요. [jo-geum bi-ssa-yo.]
+Give me only a little bit of water.
+= 물 조금만 주세요. [mul jo-geum-man ju-se-yo.]
+It's not so expensive.
+= 별로 안 비싸요. [byeol-lo an bi-ssa-yo.]
+I'm not busy at all.
+= 전혀 안 바빠요. [jeon-hyeo an ba-ppa-yo.]
+Can you drive?
+= 운전할 수 있어요? [un-jeon hal ssu i-sseo-yo?]
+Can you read this?
+= 이거 읽을 수 있어요? [i-geo il-geul ssu i-sseo-yo?]
+I can't read it.
+= 못 읽어요. [mot il-geo-yo.]
+I can't sing well.
+= 저는 노래를 잘 못해요. [jeo-neun no-rae-reul jal mo-tae-yo.]
+My friend is good at swimming.
+= 제 친구는 수영을 잘해요. [je chin-gu-neun su-yeong-eul jal-hae-yo.]
+Are you good at eating spicy foods?
+= 매운 거 잘 먹어요? [mae-un geo jal meo-geo-yo?]
+My hobby is watching movies.
+= 제 취미는 영화 보는 거예요. [je chwi-mi-neun yeong-hwa bo-neun geo-ye-yo.]
+Recently, what is it that you are studying?
+= 요즘 공부하는 거는 뭐예요? [yo-jeum gong-bu-ha-neun geo-neun mwo-ye-yo?]
+I have to go home.
+= 집에 가야 돼요. [ji-be ga-ya dwae-yo.]
+What should I do?
+= 저는 뭐 해야 돼요? [jeo-neun mwo hae-ya dwae-yo?]
+Where should I buy it?
+= 어디에서 사야 돼요? [eo-di-e-seo sa-ya dwae-yo?]
+What are you going to do?
+= 뭐 할 거예요? [mwo hal kkeo-ye-yo?]
+When are you going to do (it)?
+= 언제 할 거예요? [eon-je hal kkeo-ye-yo?]
+What are you going to wear?
+= 뭐 입을 거예요? [mwo i-beul kkeo-ye-yo?]
+I am going to wear a t-shirt.
+= 티셔츠 입을 거예요. [ti-syeo-cheu i-beul kkeo-ye-yo.]
+Did you eat an apple?
+= 사과를 먹었어요? [sa-gwa-reul meo-geo-sseo-yo?]
+Kimchi is delicious. So, I eat a lot of Kimchi.
+= 김치는 맛있어요. 그래서 김치를 많이 먹어요. [gim-chi-neun ma-si-sseo-yo. geu-rae-seo gim-chi-reul ma-ni meo-geo-yo.]
+I am a student. And I am studying French.
+= 저는 학생이에요. 그리고 프랑스어를 공부해요. [jeo-neun hak-ssaeng-i-e-yo. geu-ri-go peu-rang-sseu-eo-reul gong-bu-hae-yo.]
+I am a student. So I do not have money.
+= 저는 학생이에요. 그래서 돈이 없어요. [jeo-neun hak-ssaeng-i-e-yo. geu-rae-seo do-ni eop-sseo-yo.]
+I am going to study with my younger brother/sister.
+= 동생하고 공부할 거예요. [dong-saeng-ha-go gong-bu-hal kkeo-ye-yo.]
+I am going to eat with my teacher.
+= 선생님하고 밥을 먹을 거예요. [seon-saeng-nim-ha-go ba-beul meo-geul kkeo-ye-yo.]
+Yesterday was Friday.
+= 어제는 금요일이었어요. [eo-je-neun geu-myo-i-ri-eo-sseo-yo.]
+I watched a movie on Monday.
+= 저는 월요일에 영화를 봤어요. [jeo-neun wo-ryo-i-re yeong-hwa-reul bwa-sseo-yo.]
+I went to school yesterday, but it was Sunday.
+= 어제 학교에 갔어요. 그런데 일요일이었어요. [eo-je hak-kkyo-e ga-sseo-yo. geu-reon-de i-ryo-i-ri-eo-sseo-yo.]
+I am tired. But I want to see a movie.
+= 피곤해요. 그런데 영화 보고 싶어요. [pi-gon-hae-yo. geu-reon-de yeong-hwa bo-go si-peo-yo.]
+I work out every day, but I do not lose any weight.
+= 저는 매일 운동을 해요. 그런데 살이 빠지지 않아요. [jeo-neun mae-il un-dong-eul hae-yo. geu-reon-de sa-ri ppa-ji-ji a-na-yo.]
+What time is it now?
+= 지금 몇 시예요? [ji-geum myeot si-ye-yo?]
+My classes finish at 4:30 tomorrow.
+= 내일 수업이 4시 반에 끝나요. [nae-il su-eo-bi ne-si ba-ne kkeun-na-yo.]
+What time do you meet your friend today?
+= 오늘 몇 시에 친구를 만나요? [o-neul myeot si-e chin-gu-reul man-na-yo?]
+It is raining outside.
+= 밖에 비가 오고 있어요. [ba-kke bi-ga o-go i-sseo-yo.]
+It is snowing outside.
+= 밖에 눈이 오고 있어요. [ba-kke nu-ni o-go i-sseo-yo.]
+The wind is blowing outside.
+= 밖에 바람이 불고 있어요. [ba-kke ba-ra-mi bul-go i-sseo-yo.]
+Kyeong-eun was sleeping.
+= 경은 씨가 자고 있었어요. [kyeong-eun ssi-ga ja-go i-sseo-sseo-yo.]
+I am thinking.
+= 생각하고 있어요. [saeng-ga-ka-go i-sseo-yo.]
+I will be thinking.
+= 생각하고 있을 거예요. [saeng-ga-ka-go i-sseul kkeo-ye-yo.]
+My name is Choi Kyeong-eun.
+= 제 이름은 최경은이에요. [je i-reum-eun choi-kyeung-eun-i-e-yo.]
+I live in Seoul.
+= 저는 서울에 살아요. [jeo-neun seo-u-re sa-ra-yo.]
+I work in a bank.
+= 저는 은행에서 일해요. [jeo-neun eun-haeng-e-seo il-hae-yo.]
+I have a younger brother.
+= 저는 남동생이 있어요. [jeo-neun nam-dong-saeng-i i-sseo-yo.]
+What is today’s date?
+= 오늘 몇 월 며칠이에요? [o-neul myeo-dwol myeo-chi-ri-e-yo?]
+When is your birthday?
+= 생일이 언제예요? [saeng-i-ri eon-je-ye-yo?]
+I like it, too.
+= 저도 좋아요. [jeo-do jo-a-yo.]
+I brought this, too.
+= 이것도 가져왔어요. [i-geot-tto ga-jeo-wa-sseo-yo.]
+Do you work today as well?
+= 오늘도 일해요? [o-neul-do il-hae-yo?]
+I will go (again) tomorrow, too.
+= 내일도 갈 거예요. [nae-il-do gal kkeo-ye-yo.]
+I teach English as well.
+= 저는 영어도 가르쳐요. [jeo-neun yeong-eo-do ga-reu-chyeo-yo.]
+I fix computers as well.
+= 컴퓨터도 고쳐요. [keom-pyu-teo-do go-chyeo-yo.]
+Only I heard.
+= 저만 들었어요. [jeo-man deu-reo-sseo-yo.]
+I only ordered beer.
+= 맥주만 주문했어요. [maek-jju-man ju-mun-hae-sseo-yo.]
+I watch movies only at home.
+= 영화는 집에서만 봐요. [yeong-hwa-neun ji-be-seo-man bwa-yo.]
+It is a little expensive.
+= 조금 비싸요. [jo-geum bi-ssa-yo.]
+It is really fast.
+= 정말 빨라요. [jeong-mal ppal-la-yo.]
+It is not that interesting.
+= 별로 재미없어요. [byeol-lo jae-mi-eop-sseo-yo.]
+It is not hot at all.
+= 전혀 안 더워요. [jeon-hyeo an deo-wo-yo.]
+I cannot read it.
+= 못 읽어요. [mot il-geo-yo.]
+Can you speak Japanese?
+= 일본어 할 수 있어요? [il-bo-neo hal ssu i-sseo-yo?]
+I cannot meet you now.
+= 지금 못 만나요. [ ji-geum mot man-na-yo.]
+I cannot sing well.
+= 저는 노래를 잘 못해요. [jeo-neun no-rae-reul jal mo-tae-yo.]
+My friend is good at swimming.
+= 제 친구는 수영을 잘해요. [je chin-gu-neun su-yeong-eul jal-hae-yo.]
+Are you good at eating spicy foods?
+= 매운 거 잘 먹어요? [mae-un geo jal meo-geo-yo?]
+My hobby is watching movies.
+= 제 취미는 영화 보는 거예요. [je chwi-mi-neun yeong-hwa bo-neun geo-ye-yo.]
+Recently, what is it that you are studying?
+= 요즘 공부하는 거는 뭐예요? [yo-jeum gong-bu-ha-neun geo-neun mwo-ye-yo?]
+I have to go home.
+= 집에 가야 돼요. [ji-be ga-ya dwae-yo.]
+What should I do?
+= 저는 뭐 해야 돼요? [jeo-neun mwo hae-ya dwae-yo?]
+Who should I give this to?
+= 누구한테 줘야 돼요? [nu-gu-han-te jwo-ya dwae-yo?]
+
